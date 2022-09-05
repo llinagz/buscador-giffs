@@ -1,0 +1,14 @@
+ul{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 30px;
+  }
+
+a{
+    color: salmon;
+    text-decoration: none;
+  }
+
+  ul li::marker {
+    color: transparent;
+  }
